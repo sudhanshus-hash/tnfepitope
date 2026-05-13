@@ -11,7 +11,6 @@ TNF-α is a major pro-inflammatory cytokine involved in immune regulation, infla
 **TNFepitope Web Server:**  
 https://webs.iiitd.edu.in/raghava/tnfepitope/
 
-This tool and dataset is also available on Zenodo 
 
 
 
@@ -22,6 +21,9 @@ If you use TNFepitope in your research, please cite:
 Dhall, A., Patiyal, S., Choudhury, S., Jain, S., Narang, K., and Raghava, G.P.S. TNFepitope: A webserver for the prediction of TNF-α inducing epitopes. Computers in Biology and Medicine, 160, 106929, 2023.
 
 DOI: https://doi.org/10.1016/j.compbiomed.2023.106929
+
+
+This tool and dataset is also available on Zenodo: https://doi.org/10.5281/zenodo.20150935
 
 
 
